@@ -1,0 +1,34 @@
+body {
+    height: 100vh;
+    background: linear-gradient(
+        to bottom,
+        #ffef00 0%,
+        hsl(56, 100%, 50%) 30%,
+        #186bfb 30%,
+        #186bfb 100%
+    ); 
+    }
+    .logo {
+    text-indent: -999999px;
+    background: url(./Webisite%20pics/logo.png);
+    width: 960px;
+    height: 130px;
+    display:block;
+    margin: auto;
+    justify-content: center;
+    align-items:center;   }
+    h1{
+        padding: 0;
+        margin: 0;
+        color:#96FFBD;
+    }
+    #START {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+        }
+    #aboutme {
+        font-size: xx-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(0, 30, 255);
+    }
+        

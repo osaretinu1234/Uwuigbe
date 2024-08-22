@@ -1,0 +1,40 @@
+body {
+    height: 100vh;
+    background: linear-gradient(
+        to bottom,
+        #ffef00 0%,
+        #ffef00 34%,
+        #E3856B 34%,
+        #E3856B 100%
+    ); 
+    }
+    .logo {
+    text-indent: -999999px;
+    background: url("./Webisite%20pics/logo.png");
+    width: 960px;
+    height: 160px;
+    display:block;
+    margin: auto;
+    justify-content: center;
+    align-items:center;   }
+    h1{
+        padding: 0;
+        margin: 0;
+        font-family: Helvetica;
+    }
+    .row::after {content: ""; clear: both; display: table;}
+    .osagie::after {content: ""; clear: both; display: table;}
+    .osaze::after {content: ""; clear: both; display: table;}
+    .row {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black; 
+    }
+    .osagie {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(0, 0, 131); 
+    }
+    .osaze {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgba(0, 91, 58, 0.884); 
+    }
+    

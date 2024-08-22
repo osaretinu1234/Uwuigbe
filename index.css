@@ -1,0 +1,60 @@
+body {
+    height: 100vh;
+    background: linear-gradient(
+        to bottom,
+        #ffef00 0%,
+        hsl(56, 100%, 50%) 30%,
+       paleturquoise 30%,
+       paleturquoise 100%
+    ); 
+    }
+    .logo {
+    text-indent: -999999px;
+    background: url("./Webisite%20pics/logo.png");
+    width: 960px;
+    height: 160px;
+    display:block;
+    margin: auto;
+    justify-content: center;
+    align-items:center;   }
+    h1{
+        padding: 0;
+        margin: 0;
+        color: #AE3B8B;
+        font-size: 1cm;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    h2{
+        font-size: xx-large;
+        color: brown;
+    }
+    #About1 {
+        font-family: Verdana;
+        color: #00267c;
+        font-size: larger;
+    }
+  #List1 {
+    font-size: 0.9cm;
+    font-family: Perpetua;
+    color: #462b00;
+  }
+  #About2 {
+    font-family: Verdana;
+    font-size: larger;
+    color: rgb(61, 33, 0);
+  }
+  #List2 {
+    font-size: 0.9cm;
+    font-family: Perpetua;
+    color: #001e70; 
+  }
+  #About3 {
+    font-family: Verdana;
+    font-size: larger;
+    color: rgb(75, 0, 60);
+  }
+  #final {
+    font-family: Candara;
+    font-size: x-large;
+
+  }
